@@ -1,0 +1,82 @@
+.container .contact-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+
+.container .contact-part .mini-title {
+  color: black;
+  font-family: "Rubik";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.container .contact-part .title {
+  text-align: center;
+  color: black;
+  font-family: "Inter";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.container .contact-part .mail {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  font-family: "Inter";
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.container .contact-part .mail .icon i {
+  margin-right: 15px;
+  font-size: 20px;
+  color: black;
+}
+
+.container .contact-part .phone {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  font-family: "Inter";
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.container .contact-part .phone i {
+  margin-right: 15px;
+  font-size: 20px;
+  color: black;
+}
+
+.container .contact-part .telegram {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  font-family: "Inter";
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.container .contact-part .telegram .icon i {
+  margin-right: 15px;
+  font-size: 20px;
+  color: black;
+  color: lightskyblue;
+}

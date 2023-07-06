@@ -1,0 +1,31 @@
+/* <-- fonts --> */
+
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap");
+
+header {
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header a {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  color: #000;
+  font-size: 20px;
+  font-family: "Fredoka";
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+header .logo-part {
+  color: #000;
+  font-size: 20px;
+  font-family: "Fredoka";
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
