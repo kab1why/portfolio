@@ -1,0 +1,196 @@
+.container .portfolio-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .portfolio-part .mini-title {
+  color: black;
+  font-family: "Inter";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.container .portfolio-part .title {
+  color: black;
+  font-family: "Inter";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 72px;
+  margin-bottom: 50px;
+}
+
+.container .portfolio-part .title b {
+  font-size: 35px;
+  font-weight: 600;
+  color: green;
+}
+
+.container .portfolio-part .first-project {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.container .portfolio-part .first-project .left img {
+  width: 550px;
+}
+
+.container .portfolio-part .first-project .right {
+  margin-left: 150px;
+}
+
+.container .portfolio-part .first-project .right .title {
+  color: black;
+  font-family: "Inter";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 50px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.container .portfolio-part .first-project .right .title i {
+  color: blue;
+}
+
+.container .portfolio-part .first-project .right .desc {
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+  font-family: "Inter";
+  font-weight: 500;
+}
+
+.container .portfolio-part .first-project .right .links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .portfolio-part .first-project .right .links a {
+  margin-top: 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Rubik";
+  margin-right: 50px;
+}
+
+.container .portfolio-part .second-project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.container .portfolio-part .second-project .right img {
+  width: 650px;
+}
+
+.container .portfolio-part .second-project .left {
+  margin-right: 150px;
+}
+
+.container .portfolio-part .second-project .left .title {
+  color: black;
+  font-family: "Inter";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 50px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.container .portfolio-part .second-project .left .title i {
+  color: green;
+}
+
+.container .portfolio-part .second-project .left .desc {
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+  font-family: "Inter";
+  font-weight: 500;
+}
+
+.container .portfolio-part .second-project .left .links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .portfolio-part .second-project .left .links a {
+  margin-top: 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Rubik";
+  margin-right: 50px;
+}
+
+.container .portfolio-part .third-project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.container .portfolio-part .third-project .left img {
+  width: 650px;
+}
+
+.container .portfolio-part .third-project .right {
+  margin-right: 150px;
+}
+
+.container .portfolio-part .third-project .right .title {
+  color: black;
+  font-family: "Inter";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 50px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.container .portfolio-part .third-project .right .title i {
+  color: purple;
+}
+
+.container .portfolio-part .third-project .right .desc {
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+  font-family: "Inter";
+  font-weight: 500;
+}
+
+.container .portfolio-part .third-project .right .links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .portfolio-part .third-project .right .links a {
+  margin-top: 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Rubik";
+  margin-right: 50px;
+}
